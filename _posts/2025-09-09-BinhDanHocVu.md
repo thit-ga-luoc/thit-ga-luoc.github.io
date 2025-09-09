@@ -1,6 +1,6 @@
 ---
 title: Bình dân học vụ số
-date: 2025-09-09 15:03:03 +/-7000
+date: 2025-09-09 15:03:03
 categories: [Testing]
 tags: [testing]     # TAG names should always be lowercase
 author: thitgaluoc
